@@ -1,2 +1,2 @@
 # SQL-Case
-A collection of SQL files on a real world case study
+In this project I used SQL to answer some questions from a retail store database 
